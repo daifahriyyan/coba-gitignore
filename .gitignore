@@ -1,3 +1,5 @@
 # git ignore adalah system git yang mampu mengconfigure file apa saja yang tidak boleh / tidak bisa di add pada (staging area)/ di commit
 *.htaccess
 *.txt
+# atau bisa saja mencari recommend isi dari gitignore 
+# yaitu lewat website gitignore.io // website github.com/github/gitignore
